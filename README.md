@@ -1,2 +1,2 @@
 # privacy-app1
-This repository hosts the privacy policy for the Concrete Calculator app.
+This repository hosts the privacy policy for the ConcreteMetrics app.
